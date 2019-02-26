@@ -1,7 +1,7 @@
 # lv
 Live updating for anything in the command line.
 
-[![asciicast](https://asciinema.org/a/iOtVCaiUymFHoP9lBu1pzp9AU.png)](https://asciinema.org/a/iOtVCaiUymFHoP9lBu1pzp9AU)
+[![asciicast](https://asciinema.org/a/EmtFp3BtunesJZQUYjkdxTUHA.png)](https://asciinema.org/a/EmtFp3BtunesJZQUYjkdxTUHA)
 
 ### Installation
 - Clone repo
